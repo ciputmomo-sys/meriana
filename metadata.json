@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Meriana's Heart",
+  "description": "An interactive 3D particle system that morphs between a heart and the name 'Meriana', responding to hand gestures with explosive visual effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
